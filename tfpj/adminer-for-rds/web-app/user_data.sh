@@ -10,5 +10,3 @@ sudo apt-get install -y php libapache2-mod-php
 sudo apt-get install -y adminer
 sudo a2enconf adminer
 sudo systemctl reload apache2
-
-#TODO - SSL cert set up
